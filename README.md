@@ -22,10 +22,6 @@ The following **optional** features are implemented:
 - [X] Cards have different visual styles such as color based on their category
   - [X] light blue for adjectives, lightgreen for verbs, light pink for nouns
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
